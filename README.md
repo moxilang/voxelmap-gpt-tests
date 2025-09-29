@@ -53,10 +53,9 @@ The purpose of this project is to evaluate how GPT-4o performs when paired with 
 * **VoxelMapGPT-4o:** Fuselage, cockpit, wings, engines, and tail fin in symmetry
 * **Baseline GPT-4o:** Random primitives, little structure
 
-
-| VoxelMapGPT-4o                                  | Baseline GPT-4o                               |
-| --------------------------------------------- | --------------------------------------------- |
-| <img width="1052" height="834" alt="Screenshot from 2025-09-28 23-06-58" src="https://github.com/user-attachments/assets/66beb1db-863c-44e0-8be8-24740dbe9dd8" /> | <img width="1052" height="833" alt="Screenshot from 2025-09-28 23-07-03" src="https://github.com/user-attachments/assets/4a34d55f-2f2c-4daf-ae5d-1312c157c0a5" /> |
+| VoxelMapGPT-4o | Baseline GPT-4o |
+| -------------- | --------------- |
+| <img width="720" height="834" alt="Screenshot from 2025-09-29 13-22-34" src="https://github.com/user-attachments/assets/9a7ae6b3-4e72-4324-a79a-99f889e4fde9" /> | <img width="719" height="827" alt="Screenshot from 2025-09-29 13-22-29" src="https://github.com/user-attachments/assets/9f50f21f-9997-4701-bbd1-c1c906ac2af1" /> |
 
 ---
 
