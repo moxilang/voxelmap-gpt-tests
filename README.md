@@ -40,9 +40,11 @@ The purpose of this project is to evaluate how GPT-4o performs when paired with 
 * **VoxelMapGPT-4o:** Five layers, spiral frosting, checkerboard plate, symmetric candles
 * **Baseline GPT-4o:** Stacked cylinders and spheres, much simpler
 
+
 | VoxelMapGPT-4o                             | Baseline GPT-4o                          |
 | ---------------------------------------- | ---------------------------------------- |
-| ![Voxelmap Cake](docs/cake_voxelmap.png) | ![Baseline Cake](docs/cake_baseline.png) |
+| <img width="1052" height="834" alt="Screenshot from 2025-09-28 23-03-05" src="https://github.com/user-attachments/assets/d158b980-8f5f-4c1e-8847-7c8f0c7faabb" /> | <img width="867" height="815" alt="Screenshot from 2025-09-28 23-04-04" src="https://github.com/user-attachments/assets/ed49ab7a-b487-4890-9596-3fbedd87b750" />
+ |
 
 ---
 
@@ -51,9 +53,10 @@ The purpose of this project is to evaluate how GPT-4o performs when paired with 
 * **VoxelMapGPT-4o:** Fuselage, cockpit, wings, engines, and tail fin in symmetry
 * **Baseline GPT-4o:** Random primitives, little structure
 
+
 | VoxelMapGPT-4o                                  | Baseline GPT-4o                               |
 | --------------------------------------------- | --------------------------------------------- |
-| ![Voxelmap Spaceship](docs/ship_voxelmap.png) | ![Baseline Spaceship](docs/ship_baseline.png) |
+| <img width="1052" height="834" alt="Screenshot from 2025-09-28 23-06-58" src="https://github.com/user-attachments/assets/66beb1db-863c-44e0-8be8-24740dbe9dd8" /> | <img width="1052" height="833" alt="Screenshot from 2025-09-28 23-07-03" src="https://github.com/user-attachments/assets/4a34d55f-2f2c-4daf-ae5d-1312c157c0a5" /> |
 
 *(Add screenshots to a `/docs/` folder for display.)*
 
