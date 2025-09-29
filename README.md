@@ -58,8 +58,6 @@ The purpose of this project is to evaluate how GPT-4o performs when paired with 
 | --------------------------------------------- | --------------------------------------------- |
 | <img width="1052" height="834" alt="Screenshot from 2025-09-28 23-06-58" src="https://github.com/user-attachments/assets/66beb1db-863c-44e0-8be8-24740dbe9dd8" /> | <img width="1052" height="833" alt="Screenshot from 2025-09-28 23-07-03" src="https://github.com/user-attachments/assets/4a34d55f-2f2c-4daf-ae5d-1312c157c0a5" /> |
 
-*(Add screenshots to a `/docs/` folder for display.)*
-
 ---
 
 ## Key Takeaways
