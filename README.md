@@ -16,7 +16,11 @@ The purpose of this project is to evaluate how GPT-4o performs when paired with 
 
 ---
 
+These are the files created in the YouTube walkthrough:  
+📺 [Watch the video here](https://youtu.be/mh32ZM0c77E?si=j_KKSfnAE6XLMCkT)
+
 ## Repository Structure
+
 
 ```
 .
