@@ -3,7 +3,7 @@
 This repository compares code generations from **baseline GPT-4o** with those created using the **VoxelMapGPT-4o Assistant** (powered by the [Voxelmap-Python](https://github.com/moxilang/voxelmap) package).
 
 * [Voxelmap portfolio](https://voxelmap.vercel.app)
-* [VoxelMapGPT-4o Assistant](INSERT-GPT-ASSISTANT-LINK)
+* [VoxelMapGPT-4o Assistant](https://chatgpt.com/g/g-SYS9BBhP8-voxelmapgpt-v5-1)
 
 ---
 
